@@ -193,6 +193,7 @@ sections:
         type: ImageBlock
       - altText: Contentful logo
         type: ImageBlock
+        url: /images/ASSVEROK2024.png
       - altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
