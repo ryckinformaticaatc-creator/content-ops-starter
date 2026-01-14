@@ -180,7 +180,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Nuestros clientes
     images:
       - url: /images/ASSVEROK2024.png
         altText: Empathy logo
