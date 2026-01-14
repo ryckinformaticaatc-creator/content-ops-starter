@@ -185,9 +185,6 @@ sections:
         textAlign: center
   - subtitle: Nuestros clientes
     images:
-      - url: /images/ASSVEROK2024.png
-        altText: Empathy logo
-        type: ImageBlock
       - altText: Asesores Veracruzanos
         type: ImageBlock
         url: /images/ASSVEROK2024.png
