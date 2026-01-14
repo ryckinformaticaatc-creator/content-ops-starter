@@ -191,7 +191,7 @@ sections:
         type: ImageBlock
       - altText: Telus logo
         type: ImageBlock
-      - altText: Contentful logo
+      - altText: Asesores Veracruzanos
         type: ImageBlock
         url: /images/ASSVEROK2024.png
       - altText: Rangle logo
