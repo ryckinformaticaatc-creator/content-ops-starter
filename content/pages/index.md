@@ -7,7 +7,7 @@ sections:
       text: Ryckinformatica
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Tu mejor opción para soluciones informáticas
     text: >
       Empresa dedica a ofrecer soluciones informáticas a su empresa con los mas
       altos estándares de calidad y servicio
