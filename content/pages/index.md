@@ -13,7 +13,7 @@ sections:
       altos estándares de calidad y servicio
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: /images/1000056782.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
