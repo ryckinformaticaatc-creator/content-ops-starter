@@ -11,16 +11,7 @@ sections:
     text: >
       Empresa dedica a ofrecer soluciones informáticas a su empresa con los mas
       altos estándares de calidad y servicio
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
