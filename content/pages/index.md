@@ -189,7 +189,7 @@ sections:
         type: ImageBlock
         url: /images/ASSVEROK2024.png
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/bitelecom.jpg
         altText: Image alt text placeholder
         elementId: ''
         styles:
