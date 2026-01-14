@@ -114,7 +114,8 @@ sections:
           *   Switchs
 
         image:
-          url: /images/icon3.svg
+          url: >-
+            /images/Flux_Dev_A_sleek_computer_rack_stands_tall_with_a_24port_switc_1.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
