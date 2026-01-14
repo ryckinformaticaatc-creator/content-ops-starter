@@ -144,8 +144,11 @@ sections:
         title: Dominios web
         tagline: ''
         subtitle: ''
-        text: |
-          Registro de dominios web
+        text: |+
+          *   Registro de dominios web
+
+          *   Correo Electronico
+
         image:
           type: ImageBlock
           url: >-
