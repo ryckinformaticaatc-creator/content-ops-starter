@@ -30,6 +30,13 @@
     },
     "socialLinks": [
         {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/profile.php?id=100063709235867",
+            "icon": "facebook",
+            "elementId": ""
+        },
+        {
             "altText": "Twitter link",
             "url": "https://twitter.com/netlify",
             "icon": "twitter",
