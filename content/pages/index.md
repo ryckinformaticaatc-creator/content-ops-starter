@@ -98,10 +98,19 @@ sections:
         type: FeaturedItem
       - title: Redes
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          Instalación, diagnostico de redes.
+
+          *   Cableado
+
+          *   Wifi
+
+          *   Routers
+
+          *   Access Point
+
+          *   Switchs
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
