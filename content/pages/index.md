@@ -75,8 +75,17 @@ sections:
               borderRadius: x-large
       - title: Mantenimiento
         subtitle: ''
-        text: |
-          Servicio de Mantenimiento preventivo/correctivo a esquipo de computo.
+        text: |+
+          Servicio esquipo de computo.
+
+          *   Venta equipo de computo.
+
+          *   Consumibles.
+
+          *   Mantenimiento Preventivo
+
+          *   Mantenimiento Correctivo
+
         image:
           url: >-
             /images/Default_specialized_computer_technician_working_hard_to_solve_1
