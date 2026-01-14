@@ -40,7 +40,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Asesoria Aspel
-        subtitle: Numbers Done
+        subtitle: ''
         text: |
           Servicio personalizado en sistemas, infraestructura sistemas Aspel.
 
