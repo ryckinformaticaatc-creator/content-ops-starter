@@ -188,8 +188,6 @@ sections:
       - url: /images/ASSVEROK2024.png
         altText: Empathy logo
         type: ImageBlock
-      - altText: Vise logo
-        type: ImageBlock
       - altText: Telus logo
         type: ImageBlock
       - altText: Asesores Veracruzanos
