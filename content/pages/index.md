@@ -133,7 +133,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Registro de dominios web
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
