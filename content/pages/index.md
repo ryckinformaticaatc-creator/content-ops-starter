@@ -78,7 +78,9 @@ sections:
         text: |
           Servicio de Mantenimiento preventivo/correctivo a esquipo de computo.
         image:
-          url: /images/icon2.svg
+          url: >-
+            /images/Default_specialized_computer_technician_working_hard_to_solve_1
+            (2).jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
