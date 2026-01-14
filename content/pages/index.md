@@ -75,10 +75,8 @@ sections:
               borderRadius: x-large
       - title: Mantenimiento
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Servicio de Mantenimiento preventivo/correctivo a esquipo de computo.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
