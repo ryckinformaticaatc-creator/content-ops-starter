@@ -191,10 +191,10 @@ sections:
         type: ImageBlock
       - altText: Telus logo
         type: ImageBlock
+      - altText: Sanity logo
+        type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
-        type: ImageBlock
-      - altText: Sanity logo
         type: ImageBlock
       - altText: Rangle logo
         type: ImageBlock
