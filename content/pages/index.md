@@ -139,7 +139,9 @@ sections:
           Registro de dominios web
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: >-
+            /images/Default_specialized_computer_technician_working_hard_to_solve_1
+            (1).jpg
           altText: Placeholder text
           styles:
             self:
