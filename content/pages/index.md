@@ -12,15 +12,6 @@ sections:
       Empresa dedica a ofrecer soluciones informáticas a su empresa con los mas
       altos estándares de calidad y servicio
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
