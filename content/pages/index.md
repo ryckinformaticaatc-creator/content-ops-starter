@@ -41,10 +41,16 @@ sections:
       - type: FeaturedItem
         title: Asesoria Aspel
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Servicio personalizado en sistemas, infraestructura sistemas Aspel.
+
+          *   Nomina.
+
+          *   Contabilidad.
+
+          *   Facturación Electrónica.
+
+          *   Sistema de inventarios.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
